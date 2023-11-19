@@ -30,6 +30,7 @@
        - Podría crearte tu propio plugin para autoayuda
        - Se confiurar rangos, permisos, bloquear comandos como /pl, /help, /me, etc
        - Se configurar administradores de chat, antispam, etc
+       - Optimizo los servidores, doy consejos sobre ram y componentes para tu servidor, etc
        - ¡Y mucho mas!
 
 # Contacto
