@@ -6,7 +6,7 @@
 
 # Discord
 
-- Se configurar servidores, bots, o hasta crearte el tuyo propio
+- Sé configurar servidores, bots, o hasta crearte el tuyo propio
 
 - Decoración:
    - Decoro roles, canales, categorías, de todo
@@ -26,14 +26,14 @@
       - Hay que añadir los plugins mas importantes a las proxies y muchos de ellos necesitan bases de datos
         
     - Servidores:
-       - Se configurar la mayoría de los plugins y de los archivos mas importantes del servidor interno
-       - Se configurar la mayoría de los plugins al 99%, conectándolos a una base da datos para que funcionen en toda la network, cambiándole la mayoría de los archivos para que sea lo más personalizado y óptimo para tu servidor, etc
+       - Sé configurar la mayoría de los plugins y de los archivos mas importantes del servidor interno
+       - Sé configurar la mayoría de los plugins al 99%, conectándolos a una base da datos para que funcionen en toda la network, cambiándole la mayoría de los archivos para que sea lo más personalizado y óptimo para tu servidor, etc
        - Podría crearte tu propio plugin para autoayuda
-       - Se confiurar rangos, permisos, bloquear comandos como /pl, /help, /me, etc
-       - Se configurar administradores de chat, antispam, etc
+       - Sé confiurar rangos, permisos, bloquear comandos como /pl, /help, /me, etc
+       - Sé configurar administradores de chat, antispam, etc
        - Optimizo los servidores, doy consejos sobre ram y componentes para tu servidor, etc
        - ¡Y mucho mas!
 
 # Contacto
 
-- Cualquier cosa, me pueden mandar un mensaje en **Discord**, `estif1121` 
+- Cualquier cosa, dudas, preguntas, etc me pueden mandar un mensaje en **Discord**, `estif1121` 
