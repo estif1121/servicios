@@ -1,6 +1,7 @@
 # Info
 
-- Buenas, me llamo estif, por aquí podrán ver mis servicios, algunos gratuitos, otros pagados
+- Buenas, me llamo estif, por aquí podrán ver mis servicios.
+- Precios razonables, repondo cualquier tipo de duda, hago demostraciones
 - [Pueden ver mi portfolio aquí](https://github.com/estif1121):
 
 # Discord
