@@ -8,6 +8,8 @@
 
 - Sé configurar servidores, bots, o hasta crearte el tuyo propio
 
+- Creo bots de Discord personalizados y encuentro Hosts que se adapten a su nivel (dependiendo puede ser host gratuito o de pago. No incluido la compra del host)
+
 - Decoración:
    - Decoro roles, canales, categorías, de todo
    - Me mantengo al tanto, de que si el servidor llega al nivel 1/2/3 de boost, seguir encargándome de la customización y mejora del servidor
@@ -20,10 +22,11 @@
 # Minecraft
 
 - Configuro servidores de minecraft profesionalmente
-   - Networks:
+- Tienen abajo un resumen de algunas cosas que hago, ambos están incluidos
+   - Proxy:
       - Es importante tener el bungeeguard correctamente instalado
       - También es importanté cambiar la mayoría de las configuraciones del config.yml
-      - Hay que añadir los plugins mas importantes a las proxies y muchos de ellos necesitan bases de datos
+      - Hay que añadir los plugins mas importantes a las proxies y muchos de ellos necesitan bases de datos, por lo tanto, las creo yo mismo, estén alojados a un host **o no**
         
     - Servidores:
        - Sé configurar la mayoría de los plugins y de los archivos mas importantes del servidor interno
